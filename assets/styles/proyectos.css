@@ -1,0 +1,36 @@
+
+
+.accordion-item{
+  margin: 35px 50px;
+}
+
+
+.accordion-body img{
+  width: 100%;
+}
+
+.protex{
+  text-align: justify;
+  padding: 30px 10px 10px 10px;
+}
+
+.accordion-body{
+/*   background-color: rgb(198, 250, 198);*/
+  background-color: rgb(209, 244, 209);
+}
+
+.accordion-button{
+  text-align: center;
+}
+
+
+
+@media (max-width:600px){
+  .accordion-item{
+    margin: 30px 0 15px 0;
+  }
+  .accordion-button{
+    font-size: 14px;
+  }
+
+}
