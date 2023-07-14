@@ -53,8 +53,7 @@
   <!-- CONVOCATORIAS -->
   <div>
   <div class="convoca">        
-    <p>Convocatoria Posgrado</p>
-    <p>Agosto - Diciembre 2023</p>
+    <p>Convocatorias Posgrado</p>
   </div>
   <div class="row conva">
     <div class="col-md-6 con-up">
